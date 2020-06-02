@@ -1,0 +1,9 @@
+Kuliah Kode
+
+-flutter
+-laravel
+-CI4
+-C++
+-Java
+  - OOP 
+  - Android
