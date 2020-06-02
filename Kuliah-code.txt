@@ -5,3 +5,5 @@ Kuliah Kode
 -CI4
 -C++
 -Java
+  - OOP 
+  - Android
