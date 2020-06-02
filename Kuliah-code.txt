@@ -4,6 +4,8 @@ Kuliah Kode
 -laravel
 -CI4
 -Python
+  - OOP
+  - Data Analitys
 -C++
   - OOP
   - Android
