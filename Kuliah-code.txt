@@ -3,8 +3,10 @@ Kuliah Kode
 -flutter
 -laravel
 -CI4
+-Python
 -C++
-  -OOP
+  - OOP
+  - Android
 -Java
   - OOP 
   - Android
