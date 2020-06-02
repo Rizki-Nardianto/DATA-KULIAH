@@ -5,7 +5,7 @@ Kuliah Kode
 -CI4
 -Python
   - OOP
-  - Data Scients
+  - Data Analitys
 -C++
   - OOP
   - Android
